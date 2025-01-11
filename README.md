@@ -2,7 +2,7 @@
 
 Um podcast criado com auxilio de Inteligencia Artificial, no qual você descobrirá as vantagens de adotar o minimalismo como estilo de vida e ter mais paz de espírito em sua jornada.
 
-🎙️ [Clique aqui para ouvir o Podcast]()
+🎙️ [Clique aqui para ouvir o Podcast](https://audiomack.com/anagalli/song/menos-baguna-mais-paz-ep1-iniciando-sua-jornada-minimalista)
 
 # 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chatgpt.com/) para geração de conteúdo
